@@ -1,38 +1,24 @@
+Freeware License
 
----
+Copyright (c) 2025 Tobiira IO
 
-## 📄 `.gitignore`
+This software ("STAY Coming Soon Landing Page") is provided free of charge 
+for personal and commercial use as-is, without any warranties or guarantees 
+of any kind, express or implied.
 
-```gitignore
-# Dependencies
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+Permissions:
+- You may use this software free of charge for personal or business purposes.
+- You may share links to the software in its original, unmodified form.
 
-# Build outputs
-dist/
-build/
-.next/
-out/
+Restrictions:
+- You may not sell, sublicense, or distribute this software, in whole or in part.
+- You may not modify, reverse engineer, or create derivative works from this software.
+- You may not remove or alter any copyright or attribution notices.
 
-# Vite / Next.js cache
-.cache/
-.vite/
-.next/cache/
+Disclaimer:
+The software is provided "AS IS", without warranty of any kind. In no event 
+shall the authors or copyright holders be liable for any claim, damages, 
+or other liability, whether in an action of contract, tort, or otherwise, 
+arising from, out of, or in connection with the software or the use of the software.
 
-# Env files
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-pnpm-debug.log*
-
+(c) 2025 Tobiira IO | Spatial Data & Intelligence
